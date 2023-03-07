@@ -37,22 +37,13 @@ class:center,middle
 # Welcome
 
 ---
-
+exclude:true
 # [Zoom Drill](https://vimeo.com/407215417)
 ???
 + Facilitators will cover the following skills: muting themselves, stopping their video, typing in chat box, raising their hand, sharing their screen
-
---
-
 + Mute and Unmute your microphone
---
-
 + Start and Stop your video
---
-
 + Post a message in the Chat window with your name and computer operating system (Windows or MacOS)
---
-
 + Click the Participants window and Raise your hand 
 
 ---
@@ -80,13 +71,108 @@ class:center,middle
 
 + Be present (phone, email, social media, etc.)
 
+
 ---
 
-# Ground Rules
+# Have a question?
+
+https://bit.ly/twd-questions
 
 ---
 
 # Introductions
+
+---
+
+# Purpose
+
+---
+
+# Question
+“We don’t use data like it should be in government because…”
+
+---
+
+> Culture eats strategy for breakfast
+> - Peter Drucker
+--
+
+
+## Show you agree or disagree using the reactions in Zoom
+
+---
+
+# It's not the tools
+???
++ We all have Excel
++ Excel is powerful and widely used
+
+---
+
+# It's not the data
+???
++ Government has lots of data
++ It's not accessible
+
+---
+
+# It's not the people
+???
+
+---
+
+# Data-Driven Culture
+
+
+---
+class: center, middle
+# A data-driven culture will value getting the right tools and the right data to the right people to achieve results
+
+---
+
+
+# How to NOT Get Buy-in from Leadership
+--
+
++ Start the conversation telling them what they "should" or "have to do"
+--
+
++ Tell them they need to measure everything
+--
+
++ Promise them everything will be solved with data
+
+---
+
+# How to Get Buy-in from Leadership (and everyone else)
+--
+
++ Start small
+--
+
++ Set a good example
+--
+
++ Have tangible results
+--
+
+## The value of being more data-driven should be self-evident and speak for itself
+
+---
+
+# How to Get Buy-in from Leadership (and everyone else)
+--
+
+We should be able to show this approach is:
+--
+
++ more efficient
+--
+
++ more reliable
+--
+
++ provides repeatable results towards outcomes 
 
 ---
 
@@ -95,6 +181,11 @@ class:center,middle
 ---
 
 # Final Thought
+
+---
+
+# Questions
+<iframe src="https://app.sli.do/event/4gc6UmshpV5xzQw8o2WjoE" height="80%" width="95%" frameBorder="0" style="min-height: 460px;" title="Slido"></iframe>
 
 ---
 
