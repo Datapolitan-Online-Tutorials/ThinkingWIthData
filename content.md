@@ -2,7 +2,7 @@ layout:true
 
 <div class="header">
   
-  <p class="header-text">Class Title</p>
+  <p class="header-text">Thinking With Data</p>
 </div>
 <div class="footer">
   <p class="footer-text">
@@ -16,9 +16,9 @@ layout:true
 
 class: center,middle
 
-![img-center-50](images/datapolitan-logo-01.svg)
+![img-center-40](images/datapolitan-logo-01.svg)
 
-# Class Title
+# Thinking With Data: Leveraging Analytics to Better Define and Solve Problems
 
 - - -
 
@@ -28,7 +28,7 @@ class: center,middle
 
 #### See the code at: 
 
-<p class="license-text"><strong><strong>Class Title</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+<p class="license-text"><strong><strong>Thinking With Data: Leveraging Analytics to Better Define and Solve Problems</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="border-width:0;width:8%" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
