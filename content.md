@@ -71,6 +71,9 @@ exclude:true
 
 + Be present (phone, email, social media, etc.)
 
+---
+
+# Agenda
 
 ---
 
@@ -80,7 +83,26 @@ https://bit.ly/twd-questions
 
 ---
 
-# Introductions
+# Getting to Know You
+--
+
+In the chat, let us know:
+--
+
++ Who are you
+--
+
++ Where you're coming from
+--
+
++ Who you work for
+--
+
++ One place you'd like to be right now for a relaxing getaway 
+
+---
+
+# Getting to Know Me
 
 ---
 
