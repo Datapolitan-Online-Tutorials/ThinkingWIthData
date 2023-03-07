@@ -24,7 +24,7 @@ class: center,middle
 
 ## Facilitator: Richard Dunks
 
-### Follow along at: 
+### Follow along at: https://bit.ly/think-with-data
 
 #### See the code at: https://github.com/Datapolitan-Online-Tutorials/ThinkingWithData
 
