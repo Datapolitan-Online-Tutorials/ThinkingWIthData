@@ -115,12 +115,14 @@ In the chat, let us know:
 
 ---
 
-> Culture eats strategy for breakfast
-> - Peter Drucker
+<!-- > Culture eats strategy for breakfast
+> - Peter Drucker -->
+
+![img-center-80](images/culture_strategy_quote.jpeg)
 --
 
 
-## Show you agree or disagree using the reactions in Zoom
+## Agree or disagree using Zoom reactions
 
 ---
 
