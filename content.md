@@ -2,7 +2,7 @@ layout:true
 
 <div class="header">
   
-  <p class="header-text">Thinking With Data</p>
+  <p class="header-text">Thinking With Data: Leveraging Analytics to Better Define and Solve Problems</p>
 </div>
 <div class="footer">
   <p class="footer-text">
@@ -119,10 +119,12 @@ In the chat, let us know:
 > - Peter Drucker -->
 
 ![img-center-80](images/culture_strategy_quote.jpeg)
+.caption[[Image](https://www.flickr.com/photos/doesliverpool/19889795436) courtesy of Flickr user [DoES Liverpool](https://www.flickr.com/photos/doesliverpool/), license [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)]
 --
 
 
-## Agree or disagree using Zoom reactions
+## .center[Agree or disagree using Zoom reactions]
+
 
 ---
 
