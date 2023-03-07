@@ -122,9 +122,66 @@ https://bit.ly/twd-questions
 ---
 
 # Data-Driven Culture
-
+![img-center-95](images/ddc_compass.png)
 
 ---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_culture.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_goals.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_sharing.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_data_literacy.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_leadership.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_questions.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_learning.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_self_service.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass_testing.png)
+
+---
+
+# Data-Driven Culture
+![img-center-95](images/ddc_compass.png)
+
+---
+
+# Data-Driven Culture
+
+<a href="https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/" target="_blank">![img-center-45](images/cddo_book.jpeg)</a>
+
+---
+
 class: center, middle
 # A data-driven culture will value getting the right tools and the right data to the right people to achieve results
 
