@@ -60,7 +60,7 @@ exclude:true
 + One mic
 --
 
-+ Be curious and ask questions in the chat box
++ Be curious and ask questions in the chat
 --
 
 + Assume noble regard and positive intent
@@ -74,8 +74,13 @@ exclude:true
 ---
 
 # Agenda
-
++ Welcome
++ Ground Rules
++ Introductions
++ Purpose
++ 
 ---
+exclude:true
 
 # Have a question?
 
@@ -89,7 +94,7 @@ https://bit.ly/twd-questions
 In the chat, let us know:
 --
 
-+ Who are you
++ Who you are
 --
 
 + Where you're coming from
@@ -98,15 +103,69 @@ In the chat, let us know:
 + Who you work for
 --
 
-+ One place you'd like to be right now for a relaxing getaway 
++ One place you'd like to be right now for a relaxing getaway vacation
+![img-right-35](images/beach.jpeg)
+
+.center[.caption[Photo by <a href="https://unsplash.com/@upgradedpoints?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Upgraded Points</a> on <a href="https://unsplash.com/s/photos/vacation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]]
+  
 
 ---
 
 # Getting to Know Me
+--
+
++ Who you are -> Richard Dunks
+--
+
++ Where you're coming from -> Dallas, TX
+--
+
++ Who you work for -> Datapolitan LLC
+--
+
++ One place you'd like to be right now for a relaxing getaway vacation
+
+![img-center-25](images/thai_beach.jpeg)
+
+
+---
+# Also
+--
+
++ Almost 20 years experience as a public sector analyst
+--
+
++ 2014 graduate of NYU's Center for Urban Science and Progress
+--
+
++ Provide support and training in data literacy, analytics, visualization, user research, design thinking, machine learning, and data-driven leadership
+--
+
++ Former adjunct professor at Columbia University and Pratt Institute
+--
+
++ Currently an adjunct professor at Tulane University
 
 ---
 
 # Purpose
+???
+.caption[Photo by <a href="https://unsplash.com/@albovsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gleb Albovsky</a> on <a href="https://unsplash.com/s/photos/cheerleader?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]
+--
+
+![img-right-50](images/go_data_cheerleader.png)
+--
+
++ There's a lot of "cheerleading" for data
+--
+
++ I'm assuming you've gotten a lot of these talks already
+--
+
++ We don't often talk about why we aren't more data driven
+--
+
++ My hope is to do that today
 
 ---
 
