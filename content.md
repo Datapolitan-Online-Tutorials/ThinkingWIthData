@@ -124,10 +124,11 @@ In the chat, let us know:
 --
 
 + One place you'd like to be right now for a relaxing getaway vacation
-![img-right-35](images/beach.jpeg)
+
+<!-- ![img-right-35](images/beach.jpeg)
 
 .center[.caption[Photo by <a href="https://unsplash.com/@upgradedpoints?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Upgraded Points</a> on <a href="https://unsplash.com/s/photos/vacation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]]
-
+ -->
 ---
 
 # Getting to Know Me
@@ -283,6 +284,7 @@ In the chat, let us know:
 ---
 
 # It's not (just) the leadership
+--
 
 ![img-center-90](images/NYC_parks_storm.png)
 
@@ -355,13 +357,13 @@ In the chat, let us know:
 ---
 
 # Data-Driven Culture
-![img-center-90](images/ddc_compass_self_service.png)
+![img-center-90](images/ddc_compass_testing.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-90](images/ddc_compass_testing.png)
+![img-center-90](images/ddc_compass_self_service.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
@@ -387,7 +389,7 @@ In the chat, let us know:
 
 class:middle
 
-> “Do you have data to back that up?” should be a question no one is afraid to ask and everyone is prepared to answer
+> “Do you have data to back that up?” should be a question no one is afraid to ask and everyone is prepared to answer.
 + Julie Arsenault
 
 .caption[[Source](https://www.pagerduty.com/blog/how-to-create-a-data-driven-culture/)]
@@ -405,7 +407,7 @@ class:center,middle
 # Line staff
 --
 
-+ Much of their value is in their skill and knowledge
++ Much of their **perceived** value is in their skill and knowledge
 --
 
 + Their judgement is relied on for sound decision making
@@ -450,7 +452,7 @@ class: center, middle
 # What NOT to do
 --
 
-+ Start the conversation telling them what they "should" or "have to do" 
++ Start the conversation telling colleagues what they "should" or "have to do" 
 --
 -> _Tell them what data will enable_
 --
@@ -523,6 +525,11 @@ exclude: true
 --
 
 ## Centering data more in our conversations is what can help us towards creating a more fair, equitable, and just society in which everyone benefits
+--
+
+> If we have data, let’s look at data. If all we have are opinions, let’s go with mine.
+
+> + Jim Barksdale, former Netscape CEO
 
 
 <!-- Good leaders not only get the **right tools** and the **right data** to the **right people** so they can provide results, but also take seriously their role in **reinforcing the culture of thinking with data** in all they do
