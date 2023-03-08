@@ -74,11 +74,31 @@ exclude:true
 ---
 
 # Agenda
+--
+
 + Welcome
+--
+
 + Ground Rules
+--
+
 + Introductions
+--
+
 + Purpose
-+ 
+--
+
++ What Makes Us Data Driven?
+--
+
++ How to Lead This Change
+--
+
++ Final Thought
+--
+
++ Q&A
+
 ---
 exclude:true
 
@@ -122,7 +142,7 @@ In the chat, let us know:
 + Who you work for -> Datapolitan LLC
 --
 
-+ One place you'd like to be right now for a relaxing getaway vacation
++ One place you'd like to be right now for a relaxing getaway vacation -> Thailand
 
 ![img-center-25](images/thai_beach.jpeg)
 
@@ -516,6 +536,13 @@ A truly data-driven culture will value getting the right tools and the right dat
 # Contact Information
 + [Email me](mailto:richard[at]datapolitan[dot]com)
 + Connect on [LinkedIn](https://www.linkedin.com/in/richarddunks/)
+
+---
+
+# Time for Feedback
+--
+
+## Hannah will be sharing a link in the chat for your feedback
 
 ---
 
