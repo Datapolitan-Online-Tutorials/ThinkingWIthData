@@ -2,7 +2,7 @@ layout:true
 
 <div class="header">
   
-  <p class="header-text">Thinking With Data: Leveraging Analytics to Better Define and Solve Problems</p>
+  <p class="header-text">Thinking With Data: Leveraging Analytics to Better Define & Solve Problems</p>
 </div>
 <div class="footer">
   <p class="footer-text">
@@ -18,7 +18,7 @@ class: center,middle
 
 ![img-center-40](images/datapolitan-logo-01.svg)
 
-# Thinking With Data: Leveraging Analytics to Better Define and Solve Problems
+# Thinking With Data: Leveraging Analytics to Better Define & Solve Problems
 
 - - -
 
@@ -28,7 +28,7 @@ class: center,middle
 
 #### See the code at: https://github.com/Datapolitan-Online-Tutorials/ThinkingWithData
 
-<p class="license-text"><strong><strong>Thinking With Data: Leveraging Analytics to Better Define and Solve Problems</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+<p class="license-text"><strong><strong>Thinking With Data: Leveraging Analytics to Better Define & Solve Problems</strong></strong> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.datapolitan.com" property="cc:attributionName" rel="cc:attributionURL">Richard Dunks</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 International License</a></p>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img style="border-width:0;width:8%" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
 
 ---
