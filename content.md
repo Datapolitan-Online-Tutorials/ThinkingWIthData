@@ -309,80 +309,86 @@ In the chat, let us know:
 
 ---
 
-# Data-Driven Culture
+# What is Culture?
+
+> The way of life, especially the general customs and beliefs, of a particular group of people at a particular time.
++ [Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/culture_)
+--
+
+
+## Best summed up as the prevalent beliefs, values, and norms of that group.
+
+---
+
+# Creating Data-Driven Culture
 --
 
 <a href="https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/" target="_blank">![img-center-45](images/cddo_book.jpeg)</a>
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_goals.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_sharing.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_data_literacy.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_leadership.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_questions.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_learning.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_testing.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_self_service.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_culture.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
+# Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass.png)
-.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
-
----
-
-# Analytics Value Chain
-
-![img-center-80](images/valuechain.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
@@ -468,7 +474,40 @@ class: center, middle
 
 ---
 
-# How to Get Buy-in from Leadership (and everyone else)
+# Some Key Beliefs
+--
+
++ Data is a useful guide and should be used whenever possible
+--
+
++ Everyone can use data and should have access to the tools and information they need to be successful
+--
+
++ No one knows everything and we do this work better together
+
+---
+
+# Some Key Values
+--
+
++ A single-source of reliable truth (centralized datastores, inspectible data cleaning processes, etc.) over distributed and differing information sources
+--
+
++ Tested hypotheses over untested assumptions 
+--
+(and the ability to discern the difference)
+--
+
++ Constant improvement in how things are measured, evaluated, and communicated
+
+--
+
+# Some Key Norms
++ Asking "what's the data on this tell us?"
+
+---
+
+# Getting Buy-in 
 --
 
 + Start small
@@ -484,7 +523,7 @@ class: center, middle
 
 ---
 
-# How to Get Buy-in from Leadership (and everyone else)
+# Getting Buy-in
 
 We should be able to show a data-driven approach is:
 --
@@ -503,7 +542,7 @@ We should be able to show a data-driven approach is:
 
 ---
 
-# How to Get Buy-in from Leadership (and everyone else)
+# Getting Buy-in
 --
 
 + Have patience 
@@ -512,12 +551,7 @@ We should be able to show a data-driven approach is:
 + Have empathy
 --
 
-+ Know this isn't easy work, but is necessary
-
----
-exclude: true
-
-# Resources
++ Know this isn't easy work, but is important
 
 ---
 
@@ -560,4 +594,11 @@ A truly data-driven culture will value getting the right tools and the right dat
 
 class:middle,center
 # Thank You!
+
+---
+
+# Analytics Value Chain
+
+![img-center-80](images/valuechain.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
