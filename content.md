@@ -107,7 +107,6 @@ In the chat, let us know:
 ![img-right-35](images/beach.jpeg)
 
 .center[.caption[Photo by <a href="https://unsplash.com/@upgradedpoints?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Upgraded Points</a> on <a href="https://unsplash.com/s/photos/vacation?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]]
-  
 
 ---
 
@@ -127,9 +126,25 @@ In the chat, let us know:
 
 ![img-center-25](images/thai_beach.jpeg)
 
+---
+
+# Testing Zoom Reactions
+--
+
+![img-right-40](images/thai_beach.jpeg)
+--
+
++ If you like beaches, give me a thumbs up
+--
+
++ If you don't like beaches, give me a thumbs down
+--
+
++ We'll be using reactions for feedback in our talk today
 
 ---
-# Also
+
+# More About Me
 --
 
 + Almost 20 years experience as a public sector analyst
@@ -169,50 +184,118 @@ In the chat, let us know:
 
 ---
 
-# Question
-“We don’t use data like it should be in government because…”
+# Time for a Poll
+
+> The biggest barrier to being more data-driven on my team is:
++ Our leadership
++ Our team
++ Our tools
++ Our data
++ Our organizational culture
 
 ---
 
-<!-- > Culture eats strategy for breakfast
-> - Peter Drucker -->
-
-![img-center-80](images/culture_strategy_quote.jpeg)
+![img-center-75](images/culture_strategy_quote.jpeg)
 .caption[[Image](https://www.flickr.com/photos/doesliverpool/19889795436) courtesy of Flickr user [DoES Liverpool](https://www.flickr.com/photos/doesliverpool/), license [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)]
 --
 
 
 ## .center[Agree or disagree using Zoom reactions]
-
-
 ---
 
 # It's not the tools
 ???
 + We all have Excel
 + Excel is powerful and widely used
+--
+
+![img-center-50](images/spreadsheet_mug_crop.png)
+
+
+.caption[[Image](https://www.flickr.com/photos/jonathanharford/9068101086/in/photolist-ePjows-g4aTJ-3rvTy2-5tRyjt-fsxC7-dP9ggC-edLvWR-GzCWY-cV2221-cV22kb-cV21QN-2mGp7D-ecfM8E-cXM211-4poPnU-J4FKF3-2ekTcjo-2fsvLTZ-2uF2vY-2uACFB-2uF2nq-2uAD26-2uACRp-dkRHyw-3AGPo-4nAZgX-cHHqP3-TiJ3bh-SVPLT-23tNq9C-NaWyCh-cZBmCG-e69det-RG9vcX-e69sTV-e6eRKm-cZFxgJ-d1fGvu-cZGhUo-2kR8vZP-RfYiE-DeuGGU-qYGzbD-an1beS-2gum12x-fo4MR-2gSVbRk-2maSq3Y-2m7tUaY-2jBgpgE) by Flickr user [Jonathan Harford](https://www.flickr.com/photos/jonathanharford/), license [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)]
+
+---
+
+# London Whale
+--
+
+![img-center-75](images/london_whale_article.png)
+
+.caption[[How The London Whale Debacle Is Partly The Result Of An Error Using Excel](https://www.businessinsider.com/excel-partly-to-blame-for-trading-loss-2013-2)]
 
 ---
 
 # It's not the data
+--
+
+<!-- --
+
+![img-center-80](images/data_sheet.jpeg)
+
+.caption[Photo by <a href="https://unsplash.com/@mbaumi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mika Baumeister</a> on <a href="https://unsplash.com/photos/Wpnoqo2plFA?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]
+
+
+--- -->
+
+![img-center-45](images/army_pic.jpeg)
+
 ???
-+ Government has lots of data
-+ It's not accessible
++ A past student told me it was easier for her to go through the open data portal than another office in her own agency
++ We had some challenges with a support platform & this poor guy had to scrape through chat logs for performance data
++ We started with a gut feeling and then collected the data to prove what we knew was going on
++ Key lesson: the data is there, you just may have to work at getting it
 
 ---
 
 # It's not the people
+--
+
+![img-center-35](images/parking_meter.jpeg)
+
+.caption[Photo by <a href="https://unsplash.com/@elijahjmears?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elijah Mears</a> on <a href="https://unsplash.com/s/photos/parking-meter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]
+
 ???
++ The NYC Department of Transportation started an analysis unit staffed with parking meter collectors
++ They were the ones actually dodging traffic 
++ They had little training or experience but they figured out ways to get the analysis done because they wanted to know that if they were going to a meter, it was worth going to
++ Key lesson: people will find a way to accomplish the task of working with data
+
+---
+
+# It's not (just) the leadership
+
+![img-center-90](images/NYC_parks_storm.png)
+
+.caption[[Source](https://www.cbsnews.com/newyork/news/downed-tree-clean-up/)]
+
+???
++ The inability to track and correlate work order requests digitally meant the NYC Parks department had little idea how much work really needed to be done
++ They couldn't provide accurate estimates to the elected leaders or the public
++ The failure to manage this well in regular time meant they were dramatically underprepared in a crisis
++ Key Lesson: leadership are just as affected by a lack of a data driven culture as those on the front lines
+
+---
+
+# It's the Culture
+--
+
+![img-center-75](images/culture_strategy_quote.jpeg)
+.caption[[Image](https://www.flickr.com/photos/doesliverpool/19889795436) courtesy of Flickr user [DoES Liverpool](https://www.flickr.com/photos/doesliverpool/), license [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)]
+
+???
++ How do you feel about this now?
+
+---
+
+# Data-Driven Culture
+--
+
+<a href="https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/" target="_blank">![img-center-45](images/cddo_book.jpeg)</a>
 
 ---
 
 # Data-Driven Culture
 ![img-center-95](images/ddc_compass.png)
-
----
-
-# Data-Driven Culture
-![img-center-95](images/ddc_compass_culture.png)
 
 ---
 
@@ -257,32 +340,93 @@ In the chat, let us know:
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass.png)
+![img-center-95](images/ddc_compass_culture.png)
 
 ---
 
 # Data-Driven Culture
+![img-center-95](images/ddc_compass.png)
 
-<a href="https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/" target="_blank">![img-center-45](images/cddo_book.jpeg)</a>
+---
+
+class:middle
+
+> “Do you have data to back that up?” should be a question no one is afraid to ask and everyone is prepared to answer
++ Julie Arsenault
+
+.caption[[Source](https://www.pagerduty.com/blog/how-to-create-a-data-driven-culture/)]
+
+---
+
+class:center,middle
+
+# What does that mean for the organization?
+
+![img-center-80](images/data_idea.jpg)
+
+---
+
+# Line staff
+--
+
++ Much of their value is in their skill and knowledge
+--
+
++ Their judgement is relied on for sound decision making
+--
+
++ They often work in siloes and are respected for the work they do (no matter how inefficient)
+--
+
++ People drawn to government work do so because often they value continuity and consistency
+--
+
+## They can feel pushed aside
+---
+
+# Leadership 
+--
+
+Leaders often attain their position because:
+--
+
++ They were highly skilled and knowledgeable
+--
+
++ Their judgement could be relied on for sound decision making
+--
+
++ They were rewarded for knowing all the answers
+--
+
++ They like being in control
+--
+
+## They can feel like they're losing control
 
 ---
 
 class: center, middle
-# A data-driven culture will value getting the right tools and the right data to the right people to achieve results
+# Some thoughts on how to lead this change
 
 ---
 
-
-# How to NOT Get Buy-in from Leadership
+# What NOT to do
 --
 
-+ Start the conversation telling them what they "should" or "have to do"
++ Start the conversation telling them what they "should" or "have to do" 
+--
+-> _Tell them what data will enable_
 --
 
-+ Tell them they need to measure everything
++ Tell them they need to measure everything 
+--
+-> _that will just lead to exhaustion if you aren't [measuring what matters](https://www.whatmatters.com/)_
 --
 
-+ Promise them everything will be solved with data
++ Promise them everything will be solved with data 
+--
+-> _it won't and when it doesn't, you have even less support for being data driven than you started out with_
 
 ---
 
@@ -303,9 +447,8 @@ class: center, middle
 ---
 
 # How to Get Buy-in from Leadership (and everyone else)
---
 
-We should be able to show this approach is:
+We should be able to show a data-driven approach is:
 --
 
 + more efficient
@@ -315,28 +458,53 @@ We should be able to show this approach is:
 --
 
 + provides repeatable results towards outcomes 
+--
+
+## If not, we may not be doing it right
+
 
 ---
+
+# How to Get Buy-in from Leadership (and everyone else)
+--
+
++ Have patience 
+--
+
++ Have empathy
+--
+
++ Know this isn't easy work, but is necessary
+
+---
+exclude: true
 
 # Resources
 
 ---
 
 # Final Thought
+--
+
+## Centering data more in our conversations is what can help us towards creating a more fair, equitable, and just society in which everyone benefits
+
+
+<!-- Good leaders not only get the **right tools** and the **right data** to the **right people** so they can provide results, but also take seriously their role in **reinforcing the culture of thinking with data** in all they do
+
+A truly data-driven culture will value getting the right tools and the right data to the right people to achieve meaningful results that will be acted upon
+
+
+ -->
+---
+
+# Contact Information
++ [Email me](mailto:richard[at]datapolitan[dot]com)
++ Connect on [LinkedIn](https://www.linkedin.com/in/richarddunks/)
 
 ---
 
 # Questions
 <iframe src="https://app.sli.do/event/4gc6UmshpV5xzQw8o2WjoE" height="80%" width="95%" frameBorder="0" style="min-height: 460px;" title="Slido"></iframe>
-
----
-
-# Contact Information
-+ [Email me](mailto:richard[at]datapolitan[dot]com)
-+ Check out [my website](https://wwww.datapolitan.com)
-+ Connect on [Twitter](https://twitter.com/Datapolitan)
-+ Connect on [LinkedIn](https://www.linkedin.com/in/richarddunks/)
-+ Follow us on [Instagram](https://www.instagram.com/datapolitan/)
 
 ---
 
