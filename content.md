@@ -91,7 +91,7 @@ exclude:true
 + What Makes Us Data Driven?
 --
 
-+ How to Lead This Change
++ How do we think with data?
 --
 
 + Final Thought
@@ -109,6 +109,9 @@ https://bit.ly/twd-questions
 ---
 
 # Getting to Know You
+???
++ An opportunity to get to know the participants
++ Intended to create a more relaxed atmosphere for everyone
 --
 
 In the chat, let us know:
@@ -150,6 +153,8 @@ In the chat, let us know:
 ---
 
 # Testing Zoom Reactions
+???
++ A simple exercise to get participants used to 
 --
 
 ![img-right-40](images/thai_beach.jpeg)
@@ -190,8 +195,6 @@ In the chat, let us know:
 --
 
 ![img-right-50](images/go_data_cheerleader.png)
---
-
 + There's a lot of "cheerleading" for data
 --
 
@@ -226,8 +229,8 @@ In the chat, let us know:
 
 # It's not the tools
 ???
-+ We all have Excel
-+ Excel is powerful and widely used
++ We all have Excel on our machines or can download [OpenOffice](https://www.openoffice.org/) or [LibreOffice](https://www.libreoffice.org/), not to mention Google Sheets
++ Spreadsheets are powerful tools and widely used
 --
 
 ![img-center-50](images/spreadsheet_mug_crop.png)
@@ -243,6 +246,10 @@ In the chat, let us know:
 ![img-center-75](images/london_whale_article.png)
 
 .caption[[How The London Whale Debacle Is Partly The Result Of An Error Using Excel](https://www.businessinsider.com/excel-partly-to-blame-for-trading-loss-2013-2)]
+???
++ Billions and billions of dollars are managed using spreadsheets. They may not be managed well but they are managed.
++ Federal Reserve policy is dictated by analysis done largely in spreadsheets. Not only the US market, but the entirity of the global financial system is run on spreadsheets
++ Key Lesson: We have the basic tools we need
 
 ---
 
@@ -323,6 +330,22 @@ In the chat, let us know:
 # Creating Data-Driven Culture
 --
 
+> “Do you have data to back that up?” should be a question no one is afraid to ask and everyone is prepared to answer.
++ [Julie Arsenault](https://www.pagerduty.com/blog/how-to-create-a-data-driven-culture/)
+--
+
+
+## This is the essence of what it means to think with data
+
+---
+
+# Creating Data-Driven Culture
+???
++ The inspiration of this part of the talk
++ Carl lists these out but I'm organizing them into principle and composite elements
++ This emphasizes the more foundational nature of some of these ideas.
+--
+
 <a href="https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/" target="_blank">![img-center-45](images/cddo_book.jpeg)</a>
 
 ---
@@ -337,17 +360,10 @@ In the chat, let us know:
 ![img-center-90](images/ddc_compass_goals.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
----
-
-# Creating Data-Driven Culture
-![img-center-90](images/ddc_compass_sharing.png)
-.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
-
----
-
-# Creating Data-Driven Culture
-![img-center-90](images/ddc_compass_data_literacy.png)
-.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+???
++ Goals are essential to orient the work of an organization
++ Without goals, there can be a lot of activity but very little movement
++ What are some of our barriers to setting goals?
 
 ---
 
@@ -355,11 +371,41 @@ In the chat, let us know:
 ![img-center-90](images/ddc_compass_leadership.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
+???
++ Just hiring a Chief Data Officer is insufficient
++ There must be space made for them to do their job
++ Everyone is a data leader by the example they set
++ What keeps leaders from stepping into this role?
+
+---
+
+# Creating Data-Driven Culture
+![img-center-90](images/ddc_compass_sharing.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+
+???
++ Government isn't known for being open and sharing, but it's essential that we document and share context with others
++ What gets in the way of being open and sharing in government?
+
+---
+
+# Creating Data-Driven Culture
+![img-center-90](images/ddc_compass_data_literacy.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+
+???
++ Everyone needs to have a basic comfort with numbers, charts, and graphs
++ Without that comfort, work will either be ignored or accepted uncritically
++ What are the barriers to broad data literacy?
+
 ---
 
 # Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_questions.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+
+???
++ Understanding the goals and having the context allows us to ask questions and be curious about the work
 
 ---
 
@@ -367,17 +413,29 @@ In the chat, let us know:
 ![img-center-90](images/ddc_compass_learning.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
+???
++ With leadership and an understanding of the goals, we can be iterative and learn from our experiences as we move towards accomplishing them
++ The zero-deficit mentality doesn't help with this
+
 ---
 
 # Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_testing.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
+???
++ Having the leadership and the broad data literacy allows us to meaningfully test our assumptions
+
 ---
 
 # Creating Data-Driven Culture
 ![img-center-90](images/ddc_compass_self_service.png)
 .caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+
+???
++ Having access to the data we need when we need it is essential to being inquisitive, iterative, and able to test assumptions. 
++ Delays in accessing data or the need for unnecessary approvals/justifications inhibit innovation and exploration
+
 
 ---
 
@@ -402,9 +460,58 @@ class:middle
 
 ---
 
+class: middle, center
+# So What Does This Culture Look Like?
+
+---
+
+# Some Key Beliefs
+--
+
++ Data is a useful guide and should be used whenever possible
+--
+
++ Everyone can use data and should have access to the tools and information they need to be successful
+--
+
++ No one knows everything and we do this work better together
+
+---
+
+# Some Key Values
+--
+
++ A single-source of reliable truth (centralized datastores, inspectible data cleaning processes, etc.) over distributed and differing information sources
+--
+
++ Tested hypotheses over untested assumptions 
+--
+(and the ability to discern the difference)
+--
+
++ Constant improvement in how things are measured, evaluated, and communicated
+
+---
+
+# Some Key Norms
+--
+
++ Asking "what's the data on this tell us?"
+--
+
++ Offering up data even when it's not explicitly asked for
+--
+
++ Deferring judgement until the data is ready (if possible)
+--
+
++ Answering questions without the data should feel uncomfortable or at least not be the norm
+
+---
+
 class:center,middle
 
-# What does that mean for the organization?
+# So Why Isn't this easier?
 
 ![img-center-80](images/data_idea.jpg)
 
@@ -451,7 +558,7 @@ Leaders often attain their position because:
 ---
 
 class: center, middle
-# Some thoughts on how to lead this change
+# Some thoughts on how to manage this change
 
 ---
 
@@ -471,39 +578,6 @@ class: center, middle
 + Promise them everything will be solved with data 
 --
 -> _it won't and when it doesn't, you have even less support for being data driven than you started out with_
-
----
-
-# Some Key Beliefs
---
-
-+ Data is a useful guide and should be used whenever possible
---
-
-+ Everyone can use data and should have access to the tools and information they need to be successful
---
-
-+ No one knows everything and we do this work better together
-
----
-
-# Some Key Values
---
-
-+ A single-source of reliable truth (centralized datastores, inspectible data cleaning processes, etc.) over distributed and differing information sources
---
-
-+ Tested hypotheses over untested assumptions 
---
-(and the ability to discern the difference)
---
-
-+ Constant improvement in how things are measured, evaluated, and communicated
-
---
-
-# Some Key Norms
-+ Asking "what's the data on this tell us?"
 
 ---
 
