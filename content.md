@@ -295,57 +295,73 @@ In the chat, let us know:
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass.png)
+![img-center-90](images/ddc_compass.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+---
+
+# Data-Driven Culture
+![img-center-90](images/ddc_compass_goals.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
+---
+
+# Data-Driven Culture
+![img-center-90](images/ddc_compass_sharing.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_goals.png)
+![img-center-90](images/ddc_compass_data_literacy.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_sharing.png)
+![img-center-90](images/ddc_compass_leadership.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_data_literacy.png)
+![img-center-90](images/ddc_compass_questions.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_leadership.png)
+![img-center-90](images/ddc_compass_learning.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_questions.png)
+![img-center-90](images/ddc_compass_self_service.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_learning.png)
+![img-center-90](images/ddc_compass_testing.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_self_service.png)
+![img-center-90](images/ddc_compass_culture.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
 # Data-Driven Culture
-![img-center-95](images/ddc_compass_testing.png)
+![img-center-90](images/ddc_compass.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
-# Data-Driven Culture
-![img-center-95](images/ddc_compass_culture.png)
+# Analytics Value Chain
 
----
-
-# Data-Driven Culture
-![img-center-95](images/ddc_compass.png)
+![img-center-80](images/valuechain.png)
+.caption[Drawing by [Julia Marden](https://www.tinypanther.com/)]
 
 ---
 
