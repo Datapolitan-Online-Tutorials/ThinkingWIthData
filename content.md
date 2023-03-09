@@ -490,7 +490,7 @@ class: middle, center
 
 + Tested hypotheses over untested assumptions 
 --
-(and the ability to discern the difference)
+ -> _(and the ability to discern the difference)_
 --
 
 + Constant improvement in how things are measured, evaluated, and communicated
@@ -503,7 +503,7 @@ class: middle, center
 + Asking "what's the data on this tell us?"
 --
 
-+ Offering up data even when it's not explicitly asked for
++ Offering up relevant data even when it's not explicitly asked for
 --
 
 + Deferring judgement until the data is ready (if possible)
@@ -597,6 +597,7 @@ class: center, middle
 + Have tangible results
 --
 
+
 ## The value of being more data-driven should be self-evident and speak for itself
 
 ---
@@ -614,6 +615,7 @@ We should be able to show a data-driven approach is:
 
 + provides repeatable results towards outcomes 
 --
+
 
 ## If not, we may not be doing it right
 
