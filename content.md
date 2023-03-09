@@ -11,7 +11,6 @@ layout:true
       <img alt="Creative-Commons-License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" />
       </p>
 </div>
-
 --
 
 class: center,middle
@@ -49,54 +48,26 @@ exclude:true
 ---
 
 # A Few Ground Rules
++ Step up, step back
++ One mic
++ Be curious and ask questions in the chat
++ Assume noble regard and positive intent
++ Respect multiple perspectives 
++ Be present (phone, email, social media, etc.)
+
 ???
 + Facilitators establish the intention we have for the culture of the classroom
-
---
-
-+ Step up, step back
---
-
-+ One mic
---
-
-+ Be curious and ask questions in the chat
---
-
-+ Assume noble regard and positive intent
---
-
-+ Respect multiple perspectives 
---
-
-+ Be present (phone, email, social media, etc.)
 
 ---
 
 # Agenda
---
-
 + Welcome
---
-
 + Ground Rules
---
-
 + Introductions
---
-
 + Purpose
---
-
 + What Makes Us Data Driven?
---
-
 + How do we think with data?
---
-
 + Final Thought
---
-
 + Q&A
 
 ---
@@ -109,24 +80,15 @@ https://bit.ly/twd-questions
 ---
 
 # Getting to Know You
+In the chat, let us know:
++ Who you are
++ Where you're coming from
++ Who you work for
++ One place you'd like to be right now for a relaxing getaway vacation
+
 ???
 + An opportunity to get to know the participants
 + Intended to create a more relaxed atmosphere for everyone
---
-
-In the chat, let us know:
---
-
-+ Who you are
---
-
-+ Where you're coming from
---
-
-+ Who you work for
---
-
-+ One place you'd like to be right now for a relaxing getaway vacation
 
 <!-- ![img-right-35](images/beach.jpeg)
 
@@ -135,17 +97,9 @@ In the chat, let us know:
 ---
 
 # Getting to Know Me
---
-
 + Who you are -> Richard Dunks
---
-
 + Where you're coming from -> Dallas, TX
---
-
 + Who you work for -> Datapolitan LLC
---
-
 + One place you'd like to be right now for a relaxing getaway vacation -> Thailand
 
 ![img-center-25](images/thai_beach.jpeg)
@@ -153,58 +107,34 @@ In the chat, let us know:
 ---
 
 # Testing Zoom Reactions
+![img-right-40](images/thai_beach.jpeg)
++ If you like beaches, give me a thumbs up
++ If you don't like beaches, give me a thumbs down
++ We'll be using reactions for feedback in our talk today
+
 ???
 + A simple exercise to get participants used to 
---
-
-![img-right-40](images/thai_beach.jpeg)
---
-
-+ If you like beaches, give me a thumbs up
---
-
-+ If you don't like beaches, give me a thumbs down
---
-
-+ We'll be using reactions for feedback in our talk today
 
 ---
 
 # More About Me
---
-
 + Almost 20 years experience as a public sector analyst
---
-
 + 2014 graduate of NYU's Center for Urban Science and Progress
---
-
 + Provide support and training in data literacy, analytics, visualization, user research, design thinking, machine learning, and data-driven leadership
---
-
 + Former adjunct professor at Columbia University and Pratt Institute
---
-
 + Currently an adjunct professor at Tulane University
 
 ---
 
 # Purpose
-???
-.caption[Photo by <a href="https://unsplash.com/@albovsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gleb Albovsky</a> on <a href="https://unsplash.com/s/photos/cheerleader?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]
---
-
 ![img-right-50](images/go_data_cheerleader.png)
 + There's a lot of "cheerleading" for data
---
-
 + I'm assuming you've gotten a lot of these talks already
---
-
 + We don't often talk about why we aren't more data driven
---
-
 + My hope is to do that today
+
+???
+.caption[Photo by <a href="https://unsplash.com/@albovsky?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gleb Albovsky</a> on <a href="https://unsplash.com/s/photos/cheerleader?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]
 
 ---
 
@@ -221,28 +151,23 @@ In the chat, let us know:
 
 ![img-center-75](images/culture_strategy_quote.jpeg)
 .caption[[Image](https://www.flickr.com/photos/doesliverpool/19889795436) courtesy of Flickr user [DoES Liverpool](https://www.flickr.com/photos/doesliverpool/), license [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)]
---
-
 
 ## .center[Agree or disagree using Zoom reactions]
 ---
 
 # It's not the tools
+![img-center-50](images/spreadsheet_mug_crop.png)
+
+.caption[[Image](https://www.flickr.com/photos/jonathanharford/9068101086/in/photolist-ePjows-g4aTJ-3rvTy2-5tRyjt-fsxC7-dP9ggC-edLvWR-GzCWY-cV2221-cV22kb-cV21QN-2mGp7D-ecfM8E-cXM211-4poPnU-J4FKF3-2ekTcjo-2fsvLTZ-2uF2vY-2uACFB-2uF2nq-2uAD26-2uACRp-dkRHyw-3AGPo-4nAZgX-cHHqP3-TiJ3bh-SVPLT-23tNq9C-NaWyCh-cZBmCG-e69det-RG9vcX-e69sTV-e6eRKm-cZFxgJ-d1fGvu-cZGhUo-2kR8vZP-RfYiE-DeuGGU-qYGzbD-an1beS-2gum12x-fo4MR-2gSVbRk-2maSq3Y-2m7tUaY-2jBgpgE) by Flickr user [Jonathan Harford](https://www.flickr.com/photos/jonathanharford/), license [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)]
+
 ???
 + We all have Excel on our machines or can download [OpenOffice](https://www.openoffice.org/) or [LibreOffice](https://www.libreoffice.org/), not to mention Google Sheets
 + Spreadsheets are powerful tools and widely used
---
 
-![img-center-50](images/spreadsheet_mug_crop.png)
-
-
-.caption[[Image](https://www.flickr.com/photos/jonathanharford/9068101086/in/photolist-ePjows-g4aTJ-3rvTy2-5tRyjt-fsxC7-dP9ggC-edLvWR-GzCWY-cV2221-cV22kb-cV21QN-2mGp7D-ecfM8E-cXM211-4poPnU-J4FKF3-2ekTcjo-2fsvLTZ-2uF2vY-2uACFB-2uF2nq-2uAD26-2uACRp-dkRHyw-3AGPo-4nAZgX-cHHqP3-TiJ3bh-SVPLT-23tNq9C-NaWyCh-cZBmCG-e69det-RG9vcX-e69sTV-e6eRKm-cZFxgJ-d1fGvu-cZGhUo-2kR8vZP-RfYiE-DeuGGU-qYGzbD-an1beS-2gum12x-fo4MR-2gSVbRk-2maSq3Y-2m7tUaY-2jBgpgE) by Flickr user [Jonathan Harford](https://www.flickr.com/photos/jonathanharford/), license [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)]
 
 ---
 
 # London Whale
---
-
 ![img-center-75](images/london_whale_article.png)
 
 .caption[[How The London Whale Debacle Is Partly The Result Of An Error Using Excel](https://www.businessinsider.com/excel-partly-to-blame-for-trading-loss-2013-2)]
@@ -254,8 +179,6 @@ In the chat, let us know:
 ---
 
 # It's not the data
---
-
 <!-- --
 
 ![img-center-80](images/data_sheet.jpeg)
@@ -276,8 +199,6 @@ In the chat, let us know:
 ---
 
 # It's not the people
---
-
 ![img-center-35](images/parking_meter.jpeg)
 
 .caption[Photo by <a href="https://unsplash.com/@elijahjmears?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elijah Mears</a> on <a href="https://unsplash.com/s/photos/parking-meter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>]
@@ -291,8 +212,6 @@ In the chat, let us know:
 ---
 
 # It's not (just) the leadership
---
-
 ![img-center-90](images/NYC_parks_storm.png)
 
 .caption[[Source](https://www.cbsnews.com/newyork/news/downed-tree-clean-up/)]
@@ -306,8 +225,6 @@ In the chat, let us know:
 ---
 
 # It's the Culture
---
-
 ![img-center-75](images/culture_strategy_quote.jpeg)
 .caption[[Image](https://www.flickr.com/photos/doesliverpool/19889795436) courtesy of Flickr user [DoES Liverpool](https://www.flickr.com/photos/doesliverpool/), license [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)]
 
@@ -320,33 +237,26 @@ In the chat, let us know:
 
 > The way of life, especially the general customs and beliefs, of a particular group of people at a particular time.
 + [Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/culture_)
---
-
 
 ## Best summed up as the prevalent beliefs, values, and norms of that group.
 
 ---
 
 # Creating Data-Driven Culture
---
-
 > “Do you have data to back that up?” should be a question no one is afraid to ask and everyone is prepared to answer.
 + [Julie Arsenault](https://www.pagerduty.com/blog/how-to-create-a-data-driven-culture/)
---
-
 
 ## This is the essence of what it means to think with data
 
 ---
 
 # Creating Data-Driven Culture
+<a href="https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/" target="_blank">![img-center-45](images/cddo_book.jpeg)</a>
+
 ???
 + The inspiration of this part of the talk
 + Carl lists these out but I'm organizing them into principle and composite elements
 + This emphasizes the more foundational nature of some of these ideas.
---
-
-<a href="https://www.oreilly.com/library/view/creating-a-data-driven/9781491916902/" target="_blank">![img-center-45](images/cddo_book.jpeg)</a>
 
 ---
 
@@ -466,45 +376,23 @@ class: middle, center
 ---
 
 # Some Key Beliefs
---
-
 + Data is a useful guide and should be used whenever possible
---
-
 + Everyone can use data and should have access to the tools and information they need to be successful
---
-
 + No one knows everything and we do this work better together
 
 ---
 
 # Some Key Values
---
-
 + A single-source of reliable truth (centralized datastores, inspectible data cleaning processes, etc.) over distributed and differing information sources
---
-
-+ Tested hypotheses over untested assumptions 
---
-(and the ability to discern the difference)
---
-
++ Tested hypotheses over untested assumptions (and the ability to discern the difference)
 + Constant improvement in how things are measured, evaluated, and communicated
 
 ---
 
 # Some Key Norms
---
-
 + Asking "what's the data on this tell us?"
---
-
 + Offering up data even when it's not explicitly asked for
---
-
 + Deferring judgement until the data is ready (if possible)
---
-
 + Answering questions without the data should feel uncomfortable or at least not be the norm
 
 ---
@@ -518,40 +406,20 @@ class:center,middle
 ---
 
 # Line staff
---
-
 + Much of their **perceived** value is in their skill and knowledge
---
-
 + Their judgement is relied on for sound decision making
---
-
 + They often work in siloes and are respected for the work they do (no matter how inefficient)
---
-
 + People drawn to government work do so because often they value continuity and consistency
---
 
 ## They can feel pushed aside
 ---
 
 # Leadership 
---
-
 Leaders often attain their position because:
---
-
 + They were highly skilled and knowledgeable
---
-
 + Their judgement could be relied on for sound decision making
---
-
 + They were rewarded for knowing all the answers
---
-
 + They like being in control
---
 
 ## They can feel like they're losing control
 
@@ -563,35 +431,16 @@ class: center, middle
 ---
 
 # What NOT to do
---
-
-+ Start the conversation telling colleagues what they "should" or "have to do" 
---
--> _Tell them what data will enable_
---
-
-+ Tell them they need to measure everything 
---
--> _that will just lead to exhaustion if you aren't [measuring what matters](https://www.whatmatters.com/)_
---
-
-+ Promise them everything will be solved with data 
---
--> _it won't and when it doesn't, you have even less support for being data driven than you started out with_
++ Start the conversation telling colleagues what they "should" or "have to do" -> _Tell them what data will enable_
++ Tell them they need to measure everything -> _that will just lead to exhaustion if you aren't [measuring what matters](https://www.whatmatters.com/)_
++ Promise them everything will be solved with data -> _it won't and when it doesn't, you have even less support for being data driven than you started out with_
 
 ---
 
 # Getting Buy-in 
---
-
 + Start small
---
-
 + Set a good example
---
-
 + Have tangible results
---
 
 ## The value of being more data-driven should be self-evident and speak for itself
 
@@ -600,16 +449,9 @@ class: center, middle
 # Getting Buy-in
 
 We should be able to show a data-driven approach is:
---
-
 + more efficient
---
-
 + more reliable
---
-
 + provides repeatable results towards outcomes 
---
 
 ## If not, we may not be doing it right
 
@@ -617,23 +459,14 @@ We should be able to show a data-driven approach is:
 ---
 
 # Getting Buy-in
---
-
 + Have patience 
---
-
 + Have empathy
---
-
 + Know this isn't easy work, but is important
 
 ---
 
 # Final Thought
---
-
 ## Centering data more in our conversations is what can help us towards creating a more fair, equitable, and just society in which everyone benefits
---
 
 > If we have data, let’s look at data. If all we have are opinions, let’s go with mine.
 
@@ -655,12 +488,10 @@ A truly data-driven culture will value getting the right tools and the right dat
 ---
 
 # Time for Feedback
---
-
 ## Hannah will be sharing a link in the chat for your feedback
 
 ---
-
+exclude: true
 # Questions
 <iframe src="https://app.sli.do/event/4gc6UmshpV5xzQw8o2WjoE" height="80%" width="95%" frameBorder="0" style="min-height: 460px;" title="Slido"></iframe>
 
