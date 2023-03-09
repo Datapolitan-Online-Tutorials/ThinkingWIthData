@@ -91,13 +91,17 @@ exclude:true
 + What Makes Us Data Driven?
 --
 
-+ How do we think with data?
++ How Do We Think With Data?
 --
 
 + Final Thought
 --
 
 + Q&A
+--
+
+
+## <a href="https://bit.ly/think-with-data-slides" target="_blank">Click to download a PDF of the slides</a>
 
 ---
 exclude:true
